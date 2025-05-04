@@ -1,0 +1,7 @@
+/__pycache__
+/data
+/models
+/venv
+/.env
+/recordings
+yolov8n.pt
